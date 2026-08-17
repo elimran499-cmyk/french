@@ -1,0 +1,6 @@
+{
+  "name": "IPTV Stream Pro",
+  "description": "Premium 4K Ultra HD IPTV streaming platform with 15,000+ live channels, 50,000+ VODs, 99.9% anti-freeze uptime, and instant WhatsApp activation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
